@@ -76,6 +76,7 @@ body{
 	font-weight:bold;
 	font-size:36px;
 	font-family:Helvetica LT Std;
+	letter-spacing:-0.05em;
 }
 .logo h1 span{
 	color:#ca1f1f;
@@ -89,6 +90,7 @@ body{
 	font-size:18px;
 	font-weight: bold;
 	color:#999999;
+	letter-spacing:-0.05em;
 }
 .nav-bar p a {
 	color: #000;
@@ -103,14 +105,16 @@ a{
 	border-bottom: solid #cccccc 1px;
 }
 #contact-me h1{
+	letter-spacing:-0.05em;
 	font-size: 36px;
 	font-weight:bold;
 }
 #contact-me p{
 	font-size:16px;
 	font-weight:roman;
-	margin:45px 380px 45px 380px;
-	line-height:26px;	
+	margin:45px 415px 45px 415px;
+	line-height:26px;
+	letter-spacing:-0.05em;
 }
 .button-link{
 	display: inline-block;
@@ -130,6 +134,7 @@ a{
 #project h1{
 	font-size:30px;
 	font-weight: bold;
+	letter-spacing:-0.05em;
 }
 .link {
 	margin-top:44px;
@@ -172,6 +177,7 @@ a{
 	font-size:30px;
 	font-weight:bold;
 	margin-bottom:46px;
+	letter-spacing:-0.05em;
 }
 #about-me p{
 	color: #444444;
