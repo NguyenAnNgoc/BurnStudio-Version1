@@ -61,7 +61,7 @@ body{
 	font-family: Helvetica LT Std;
 }
 .burn-head{	
-	padding: 0px 320px 0px 320px;
+	padding: 0px 320px 0px 318px;
 	border-bottom: solid #cccccc 1px;
 	height: 126px;
 	line-height:126px;
@@ -128,7 +128,7 @@ a{
 	border-radius:5px;
 }
 #project{
-	padding: 55px 320px 100px 320px;
+	padding: 55px 318px 100px 318px;
 }
 #project h1{
 	font-size:30px;
@@ -144,7 +144,7 @@ a{
 	height:280px;
 }
 .link-margin{
-	margin-right:25px;
+	margin-right:26px;
 }
 .img-link{
 	display: block;
@@ -169,7 +169,7 @@ a{
 	color:#000;
 }
 .first{
-	margin-left:1px;
+	margin-left:2px;
 }
 .content-link p{
 	font-family:Helvetica LT Std;
